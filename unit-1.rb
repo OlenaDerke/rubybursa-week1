@@ -14,4 +14,9 @@ end
 res2 = res
 
 puts res2
+
+puts a = nil || false
+puts b = a && 10
+puts c = a || 10
+
 		
